@@ -22,5 +22,5 @@ Download from: https://www.python.org/downloads/
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/privaguard.git
+git clone https://github.com/ethicallypresent/privaguard.git
 cd privaguard
