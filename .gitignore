@@ -1,0 +1,9 @@
+# PrivaGuard local data and environment files
+privaguard.db
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.log
+.streamlit/
